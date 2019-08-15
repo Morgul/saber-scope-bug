@@ -1,0 +1,14 @@
+{
+  "name": "saber-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "saber docs",
+    "gen": "saber build docs"
+  },
+  "devDependencies": {
+    "@skewedaspect/saber-theme-minima": "^1.0.1",
+    "saber": "^0.7.0"
+  }
+}
